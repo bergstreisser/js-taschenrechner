@@ -10,7 +10,7 @@ body {
 
 #header {
     padding-top: 20px;
-    padding-left: 80px;
+    padding-left: 50px;
     padding-bottom: 20px;
     color: #fff;
     font-size: 15px;
@@ -18,12 +18,12 @@ body {
 }
 
 #content {
-    margin: 80px;
+    margin: 50px;
 }
 
 #display {
-    width: 25%;
-    height: 20vh;
+    width: 400px;
+    height: 150px;
     color: #fff;
     display: flex;
     justify-content: flex-end;
@@ -35,14 +35,14 @@ body {
 }
 
 table {
-    width: 25%;
-    height: 40vh;
+    width: 400px;
+    height: 400px;
     color: #fff;
     background-color: rgb(50, 50, 50);
 }
 
 td {
-    width: 25%;
+    width: 50px;
     text-align: center;
     font-size: 25px;
     cursor: pointer;
