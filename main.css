@@ -10,7 +10,7 @@ body {
 
 #header {
     padding-top: 20px;
-    padding-left: 50px;
+    padding-left: 20px;
     padding-bottom: 20px;
     color: #fff;
     font-size: 15px;
@@ -18,7 +18,7 @@ body {
 }
 
 #content {
-    margin: 50px;
+    margin: 15px;
 }
 
 #display {
