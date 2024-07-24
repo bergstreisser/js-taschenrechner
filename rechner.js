@@ -2,8 +2,9 @@ function eingabe(zahl) {
     document.getElementById('display').innerHTML += zahl;
 }
 
-function clear() {
-    document.getElementById('display').innerHTML = '';
+function cl() {
+    let empty = " ";
+    document.getElementById('display').innerHTML = empty;
 }
 
 function del() {
