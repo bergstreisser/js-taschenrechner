@@ -3,8 +3,7 @@ function eingabe(zahl) {
 }
 
 function cl() {
-    let empty = " ";
-    document.getElementById('display').innerHTML = empty;
+    document.getElementById('display').innerHTML = "";
 }
 
 function del() {
